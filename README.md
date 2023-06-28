@@ -1,3 +1,4 @@
+# SysReptor Installation Guide
 This is an inofficial guide how to install [SysReptor](https://docs.sysreptor.com/) without building it yourself.
 
 Make sure you have Docker and the [Compose (v2) plugin](https://docs.docker.com/compose/migrate/) installed (no podman or compose v1).
